@@ -16,6 +16,7 @@
     "test:network": "node scripts/tests/run-test-suite.js --network",
     "sync:microsoft": "node scripts/run-python.js scripts/sync_microsoft_skills.py",
     "sync:all-official": "npm run sync:microsoft && npm run chain",
+    "deploy:contraktor": "node scripts/deploy-contraktor-skills.js",
     "update:skills": "node scripts/run-python.js scripts/generate_index.py && node scripts/copy-file.js skills_index.json web-app/public/skills.json",
     "app:setup": "node scripts/setup_web.js",
     "app:install": "cd web-app && npm install",
