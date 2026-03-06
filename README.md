@@ -6,16 +6,16 @@ Repositório de skills para assistentes de código (Cursor, Claude Code, Gemini 
 
 As skills seguem o formato **SKILL.md** e funcionam em qualquer IDE/CLI que suporte agentic skills.
 
-| IDE / CLI       | Caminho (global)                    |
-| :-------------- | :---------------------------------- |
-| **Cursor**     | `~/.cursor/skills/`                |
-| **Claude Code**| `~/.claude/skills/`                 |
-| **Gemini CLI** | `~/.gemini/skills/`                 |
-| **Codex CLI**  | `$CODEX_HOME/skills/` ou `~/.codex/skills/` |
-| **Kiro**       | `~/.kiro/skills/`                   |
-| **Antigravity**| `~/.gemini/antigravity/skills/`    |
-| **OpenCode**   | `~/.agents/skills/`                 |
-| **AdaL CLI**   | `~/.adal/skills/`                   |
+| IDE / CLI       | Caminho (global)                            |
+| :-------------- | :------------------------------------------ |
+| **Cursor**      | `~/.cursor/skills/`                         |
+| **Claude Code** | `~/.claude/skills/`                         |
+| **Gemini CLI**  | `~/.gemini/skills/`                         |
+| **Codex CLI**   | `$CODEX_HOME/skills/` ou `~/.codex/skills/` |
+| **Kiro**        | `~/.kiro/skills/`                           |
+| **Antigravity** | `~/.gemini/antigravity/skills/`             |
+| **OpenCode**    | `~/.agents/skills/`                         |
+| **AdaL CLI**    | `~/.adal/skills/`                           |
 
 ---
 
